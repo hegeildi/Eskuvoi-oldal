@@ -254,13 +254,13 @@ footer small {
 }
 @media (min-width: 768px) {
 
-  .cover {
+.cover {
     background: url('https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg') no-repeat center/cover;
   }
 
 }
 
-...
+
 
 @media (min-width: 768px) {
 
@@ -276,7 +276,7 @@ footer small {
 
 }
 
-...
+
 
 @media (min-width: 768px) {
 
@@ -324,6 +324,7 @@ footer small {
       .question-group h3 {
         text-align: left;
       }
+}
  @media (min-width: 768px) {
 
       footer {
